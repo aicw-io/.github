@@ -6,7 +6,7 @@ We build tools that help websites work better and be found faster. Below are ope
 
 ---
 
-### Open Source Tools
+### Free & Open-Source Tools For Marketers
 
 #### [AICW Summarize Widget](https://github.com/aicw-io/aicw-summarize)
 
@@ -14,7 +14,7 @@ We build tools that help websites work better and be found faster. Below are ope
 
 Github Repository: [https://github.com/aicw-io/aicw-summarize](github.com/aicw-io/aicw-summarize)
 
-#### [Params Saver](https://github.com/aicw-io/aicw-params-saver)
+#### [AICW Params Saver](https://github.com/aicw-io/aicw-params-saver)
 
 Captures UTM and marketing parameters, stores them in the browser, and decorates internal links — so attribution survives the full user journey. GDPR-compliant by default, SPA-ready, no cookies. MIT License.
 
