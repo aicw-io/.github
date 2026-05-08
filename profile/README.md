@@ -2,11 +2,15 @@
 
 **[www.aicw.io](https://www.aicw.io)** — **A**dvanced **I**nsights **C**ontent & **W**eb
 
-We build tools that help websites work better and be found faster. Below are open source scripts for use on your website.
+We build tools for modern builders.
 
 ---
 
-### Free & Open-Source Tools For Marketers
+### Open-Source Tools
+
+#### [AICW Video AI Agent](https://github.com/aicw-io/aicw-video)
+
+Open-source AI agent for editing video interviews. Auto-syncs audio from a separate audio track, blurs faces, replaces audio to voice over, generates captions. Can be used as AI agent from Claude and ChatGPT, or as a standalone local tool. 
 
 #### [AICW Summarize Widget](https://github.com/aicw-io/aicw-summarize)
 
