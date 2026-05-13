@@ -6,7 +6,8 @@
 
 ### Open-Source Tools
 
-#### AICW AI Mentions (form AICW Rankings)
+#### AICW AI Mentions 
+(former AICW Rankings)
 
 **Captures responses from multiple AI models** to **extract links, web domains, brands, persons, organizations** mentioned or cited. Use as AI Agent via MCP from ChatGPT, Claude on your computer, or run as a standalone tool.
 
